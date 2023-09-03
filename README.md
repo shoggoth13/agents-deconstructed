@@ -1,4 +1,4 @@
-# Agents Deconstructed
+# 🤖🪟 Agents Deconstructed
 
 Deconstructing agents to let you harness their power in a more understandable and customizable way.
 
